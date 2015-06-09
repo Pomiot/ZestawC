@@ -34,8 +34,8 @@ Kryteria oceny:
 Gdzie:
   * Liczba wybranych kolorów to liczba elementów w kolekcji ChosenSuits 
   * Liczba wybranych kart to liczba elementów w kolekcji ChosenRanks
-  * Liczba wszystkich kart dla jednego koloru to liczba elementów w kolekcji AvailableSuits 
-  * Liczba wszystkich kart to liczba elementów w kolekcji AvailableRanks
+  * Liczba wszystkich kolorów to liczba elementów w kolekcji AvailableSuits 
+  * Liczba wszystkich kart dla jednego koloru to liczba elementów w kolekcji AvailableRanks
 
 Obliczenia mogą być dokonane tylko gdy wybrano jakiekolwiek kolory lub jakiekolwiek rangi karty (np. tylko czerwone lub tylko króle). Jeżeli nie wybrano koloru ani rangi, należy pokazać na ekranie wiadomość z o niemożliwości obliczenia prawdopodobieństwa (metoda MessageBox.Show).
 
